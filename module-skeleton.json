@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-relationships-nuxt",
+  "capabilityKey": "liberusoftware/module-genealogy-relationships",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-genealogy-relationships-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/genealogy/nextjs/relationships.md",
+  "presentationPlan": "projects/genealogy/nuxt/relationships.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
